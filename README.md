@@ -2,8 +2,12 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Banner" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mundrathi Vaishnavi</h1>
-<h3 align="center">B.Tech CSE @ SR University | AI/ML Enthusiast | Full Stack Learner</h3>
+<h3 align="center">B.Tech CSE (AIML) | SR University | ML Enthusiast | Full Stack Learner</h3>
 
 <p align="center">
   <a href="mailto:mundrathivaishnavi@gmail.com"><img src="https://img.shields.io/badge/email-mundrathivaishnavi@gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -14,65 +18,87 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍🎓 About Me
 
-🎓 I’m a Computer Science undergrad at **SR University** (2022–2026)  
-💡 Passionate about **AI/ML**, **Data Science**, and **Web Technologies**  
-🚀 I work on impactful projects like fraud detection and intelligent automation  
-💬 Ask me about Python, Java, Machine Learning, or Automation  
-🌱 Currently learning: YOLO, Advanced Neural Architectures, and Azure Cloud  
+🎓 I'm a B.Tech CSE (AIML) student at **SR University** (2022–2026)  
+🧠 Passionate about Artificial Intelligence, Machine Learning & Web Technologies  
+💬 Ask me about Python, ML Models, or Web App Development  
+🌱 Currently exploring advanced deep learning, APIs, and Azure Cloud  
+📫 Email: [mundrathivaishnavi@gmail.com](mailto:mundrathivaishnavi@gmail.com)
 
 ---
 
 ## 🛠️ Skills
 
 ```yaml
-Languages     : Python, Java, SQL, MySQL  
-Web Dev       : HTML, CSS, JavaScript, Bootstrap  
-ML Tools      : Pandas, NumPy, Scikit-learn, TensorFlow, YOLO  
-Tools & IDEs  : Git, GitHub, Visual Studio Code  
-Core Subjects : DSA, Operating System, DBMS, CN  
+Languages     : Python, C
+Databases     : SQL
+Web Dev       : HTML, CSS
+Core Subjects : DSA, AIML, Theory of Computation
+Cloud & Tools : Microsoft Azure, Git, AWS Academy
+```
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mundrathivaishnavi&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mundrathivaishnavi&theme=radical" alt="GitHub Streak" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mundrathivaishnavi&layout=compact&theme=radical" width="48%"/> </p>
-🚀 Projects
-⚙️ Machine Failure Prediction
-🔹 Built a high-accuracy ML system to reduce equipment downtime using real-time data analytics.
+---
 
-👁️ Detection and Recognition System
-🔹 Developed using YOLO for real-time face and object detection with 20% improved precision.
+## 🚀 Projects
 
-🕵️‍♀️ Insurance Claim Fraud Detection
-🔹 Implemented AI models to reduce false positives and speed up claim processing.
+### ⚙️ [Machine Failure Prediction](https://github.com/Mundrathivaishnavi/Project/blob/main/Machine_failure_prediction.ipynb)
+- Predictive system for machine failure using sensor analytics
+- Real-time data processing to reduce downtime and optimize maintenance
 
-💼 Experience
-🧠 Google AI-ML Internship (Jul–Sep 2024)
-Built optimized DL models and worked on large-scale datasets to improve real-world performance.
+### 🧠 [Detection and Recognition System](https://github.com/Mundrathivaishnavi/Project/blob/main/detection_and_recognisition.ipynb)
+- Real-time face & object recognition using YOLO
+- Improved classification precision and reduced false positives
 
-⚙️ Industrial Automation Internship (Oct–Dec 2024)
-Developed control algorithms for industrial robotics and improved system responsiveness by 15%.
+### 💼 [Insurance Claim Fraud Detection](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/AIML_PROJECT.ipynb)
+- Fraud detection using Decision Tree & Random Forest
+- Achieved 25% improvement in fraud identification
 
-🏆 Certifications & Achievements
-☁️ AWS Academy Cloud Foundations – Oct 2024
+### 🚉 [Train Ticket Booking App](https://mundrathivaishnavi.github.io/Train/)
+- Web app for booking & managing train reservations using HTML/CSS
+- Optimized frontend for responsiveness and speed
 
-🧮 Data Analytics Essentials – Dec 2024
+---
 
-📡 CCNA: Introduction to Networks – Mar 2024
+## 📈 GitHub Stats
 
-🌐 Microsoft Azure – Mar 2024
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mundrathivaishnavi&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mundrathivaishnavi&theme=tokyonight" width="48%"/>
+</p>
 
-💻 12-hour Hackathon @ SRU
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mundrathivaishnavi&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
-🔁 41-day Coding Challenge – Consistent top performer
+---
 
-📫 Contact Me
-📧 Email: mundrathivaishnavi@gmail.com
+## 🏆 Achievements & Certifications
 
-🔗 LinkedIn: Vaishnavi Mundrathi
+- ✅ Completed 41-day coding challenge @ SRU  
+- 💡 Participated in 12-hour SRU Hackathon  
+- 📜 Certifications:
+  - Microsoft Azure (Mar 2024)
+  - CCNA: Introduction to Networks (Mar 2024)
+  - AWS Cloud Foundations (Oct 2024)
+  - Theory of Computation (Jul–Sep 2024)
+  - Data Analytics Essentials (Dec 2024)
 
-💻 GitHub: Mundrathivaishnavi
+---
 
-🧠 LeetCode: Profile
+## 📫 Connect With Me
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mundrathivaishnavi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
-“The best preparation for tomorrow is doing your best today.” – H. Jackson Brown Jr.
+- 📧 Email: [mundrathivaishnavi@gmail.com](mailto:mundrathivaishnavi@gmail.com)
+- 🔗 LinkedIn: [Vaishnavi Mundrathi](https://www.linkedin.com/in/vaishnavi-mundrathi-a6a435295/)
+- 💻 GitHub: [Mundrathivaishnavi](https://github.com/Mundrathivaishnavi)
+- 🧠 LeetCode: [LeetCode Profile](https://leetcode.com/u/mundrathivaishnavi/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mundrathivaishnavi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
