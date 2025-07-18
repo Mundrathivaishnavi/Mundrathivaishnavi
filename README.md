@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Banner" width="500" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mundrathi Vaishnavi</h1>
 <h3 align="center">B.Tech CSE (AIML) | SR University | ML Enthusiast | Full Stack Learner</h3>
 
